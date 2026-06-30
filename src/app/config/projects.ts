@@ -24,15 +24,14 @@ export const projects: Project[] = [
       'A comprehensive, modern URL shortener featuring user accounts, link management, and an analytics dashboard.',
     tags: ['Go', 'PostgreSQL'],
     githubLink: 'https://github.com/PraveenGongada/Shortly',
-    liveLink: 'https://shortly-go.vercel.app/',
+    liveLink: 'https://shortly.work/',
     type: 'Backend',
     thumbnail:
-      'https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/thumbnail.png',
+      'https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/home.png',
     carouselImages: [
-      'https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/register.png',
       'https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/dashboard.png',
-      'https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/create.png',
-      'https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/delete.png',
+      'https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/qr.png',
+      'https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/register.png',
     ],
     carouselConfig: {
       interval: 2000,
